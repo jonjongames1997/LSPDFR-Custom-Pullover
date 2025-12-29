@@ -11,3 +11,17 @@ E:\repositories\LSPDFR-Custom-Pullover\Custom-Pullover\bin\x64\Debug\RagePluginH
 E:\repositories\LSPDFR-Custom-Pullover\Custom-Pullover\obj\x64\Debug\Custom Pullover.csproj.CopyComplete
 E:\repositories\LSPDFR-Custom-Pullover\Custom-Pullover\obj\x64\Debug\Custom Pullover.dll
 E:\repositories\LSPDFR-Custom-Pullover\Custom-Pullover\obj\x64\Debug\Custom Pullover.pdb
+D:\Script Projects\LSPDFR-Custom-Pullover\Custom-Pullover\bin\x64\Debug\Custom Pullover.dll
+D:\Script Projects\LSPDFR-Custom-Pullover\Custom-Pullover\bin\x64\Debug\Custom Pullover.pdb
+D:\Script Projects\LSPDFR-Custom-Pullover\Custom-Pullover\bin\x64\Debug\Traffic Policer.XML
+D:\Script Projects\LSPDFR-Custom-Pullover\Custom-Pullover\bin\x64\Debug\LSPD First Response.dll
+D:\Script Projects\LSPDFR-Custom-Pullover\Custom-Pullover\bin\x64\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Script Projects\LSPDFR-Custom-Pullover\Custom-Pullover\bin\x64\Debug\RAGENativeUI.dll
+D:\Script Projects\LSPDFR-Custom-Pullover\Custom-Pullover\bin\x64\Debug\RagePluginHook.dll
+D:\Script Projects\LSPDFR-Custom-Pullover\Custom-Pullover\bin\x64\Debug\RAGENativeUI.xml
+D:\Script Projects\LSPDFR-Custom-Pullover\Custom-Pullover\bin\x64\Debug\RagePluginHook.xml
+D:\Script Projects\LSPDFR-Custom-Pullover\Custom-Pullover\obj\x64\Debug\Custom Pullover.csproj.AssemblyReference.cache
+D:\Script Projects\LSPDFR-Custom-Pullover\Custom-Pullover\obj\x64\Debug\Custom Pullover.csproj.CoreCompileInputs.cache
+D:\Script Projects\LSPDFR-Custom-Pullover\Custom-Pullover\obj\x64\Debug\Custom P.68B61DF6.Up2Date
+D:\Script Projects\LSPDFR-Custom-Pullover\Custom-Pullover\obj\x64\Debug\Custom Pullover.dll
+D:\Script Projects\LSPDFR-Custom-Pullover\Custom-Pullover\obj\x64\Debug\Custom Pullover.pdb

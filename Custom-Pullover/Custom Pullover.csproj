@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Custom_Pullover</RootNamespace>
     <AssemblyName>Custom Pullover</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SccProjectName>
     </SccProjectName>
@@ -50,11 +50,12 @@
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <DocumentationFile>bin\Debug\Traffic Policer.XML</DocumentationFile>
     <DebugType>full</DebugType>
-    <PlatformTarget>x64</PlatformTarget>
+    <PlatformTarget>ARM64</PlatformTarget>
     <ErrorReport>prompt</ErrorReport>
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
-    <WarningLevel>0</WarningLevel>
+    <WarningLevel>3</WarningLevel>
     <NoWarn>1591</NoWarn>
+    <Optimize>true</Optimize>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
     <OutputPath>bin\Release\Obfuscation\</OutputPath>
@@ -71,26 +72,17 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="LSPD First Response">
-      <HintPath>..\..\Documents\LSPDFR\Dev\LSPD First Response.dll</HintPath>
-    </Reference>
-    <Reference Include="LSPD First Response, Version=0.4.7297.8062, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\SteamStuff\Mod development\_External references\LSPD First Response.dll</HintPath>
+      <HintPath>C:\Users\JonJo\OneDrive\Documentos\references\LSPD First Response.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\_External references\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll</HintPath>
     </Reference>
-    <Reference Include="RAGENativeUI, Version=1.6.3.0, Culture=neutral, processorArchitecture=AMD64">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\SteamStuff\Mod development\_External references\RAGENativeUI.dll</HintPath>
+    <Reference Include="RAGENativeUI, Version=1.9.3.0, Culture=neutral, processorArchitecture=AMD64">
+      <HintPath>packages\RAGENativeUI.1.9.3\lib\net472\RAGENativeUI.dll</HintPath>
     </Reference>
-    <Reference Include="RagePluginHook, Version=0.0.0.0, Culture=neutral, processorArchitecture=Amd64">
+    <Reference Include="RagePluginHook, Version=0.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <HintPath>packages\RagePluginHook.1.109.1\lib\net472\RagePluginHook.dll</HintPath>
-    </Reference>
-    <Reference Include="RagePluginHookSDK, Version=0.0.0.0, Culture=neutral, processorArchitecture=AMD64">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\SteamStuff\Mod development\_External references\RagePluginHookSDK.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Drawing" />
